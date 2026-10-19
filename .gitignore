@@ -1,0 +1,10 @@
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
